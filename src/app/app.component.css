@@ -1,0 +1,19 @@
+.container {
+    background-color: #eee;
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+}
+
+.table {
+    width: 100%;
+}
+
+.table-cell {
+    width: 33%;
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+}
